@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mbigerna
 - 👀 I’m interested in remote sensing, deforestation monitoring, phenology, land use dynamics
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on the OroVerdes projects impact monitoring 
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
 
 <!---
